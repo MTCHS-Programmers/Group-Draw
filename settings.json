@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "title": "Group Draw",
+        "private": false,
+        "ownerID": 0
+    },
+    "template": {
+        "load": [
+            true,
+            false
+        ]
+    },
+    "meta": {
+        "content": [
+            "content.php",
+            "assets\/canvas.php"
+        ]
+    }
+}

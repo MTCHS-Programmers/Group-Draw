@@ -1,0 +1,6 @@
+[23-Mar-2015 22:53:20 America/Denver] PHP Warning:  mysql_insert_id(): Access denied for user 'rettoph'@'localhost' (using password: NO) in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7
+[23-Mar-2015 22:53:20 America/Denver] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7
+[23-Mar-2015 22:56:08 America/Denver] PHP Warning:  mysql_insert_id(): Access denied for user 'rettoph'@'localhost' (using password: NO) in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7
+[23-Mar-2015 22:56:08 America/Denver] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7
+[23-Mar-2015 22:56:10 America/Denver] PHP Warning:  mysql_insert_id(): Access denied for user 'rettoph'@'localhost' (using password: NO) in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7
+[23-Mar-2015 22:56:10 America/Denver] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/rettoph/public_html/projects/groupDraw/src/php/postCanvasData.php on line 7

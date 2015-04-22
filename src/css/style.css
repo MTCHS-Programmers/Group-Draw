@@ -1,0 +1,29 @@
+body, #canvasContainer, canvas {
+	padding: 0px;
+	margin: 0px;
+}
+
+#canvasContainer {
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 50px;
+}
+
+#menu {
+	background: lightGrey;
+	float: left;
+	width: 30%;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	z-index: 2;
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+	transition: 300ms ease-in-out;
+	transform: translate(calc(-100% + 50px),0);
+	padding-left: 50px;
+}
+
+#menu:hover {
+	transform: translate(0,0);
+}
